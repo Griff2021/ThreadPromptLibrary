@@ -79,3 +79,11 @@ Examples:
 - Contractor | VPN setup for external vendor | 90-day contract  
 
 ---
+
+### :lock: Special Case: Overflow Titling
+If a ticket is created with the source as "{voice_source}", format as:
+**"Overflow | [short issue summary] | [Affected platform]"**
+Examples:
+- Overflow | Unable to log into Outlook | Office 365
+- Overflow | VPN not connecting | VPN
+- Overflow | MFA code not working | Office 365
