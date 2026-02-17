@@ -1,4 +1,4 @@
-Create a professional, customer-friendly recap addressed directly to the end user by first name and referencing their company naturally. This recap represents Stepping Forward Technology and should feel clear, helpful, and easy to understand.
+Create a professional, customer-friendly recap addressed directly to the end user by first name and referencing their company naturally. This recap represents [MSP] and should feel clear, helpful, and easy to understand.
 
 Begin with a brief, friendly opening that acknowledges the customer and clearly outlines the initial problem. Restate the original request or issue in simple terms, using the customer’s own description where possible. Avoid technical language and keep this section short and relatable.
 
