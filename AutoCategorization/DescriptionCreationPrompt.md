@@ -17,7 +17,7 @@ A ticket should be categorized as a "[TYPE NAME]" if it is related to any of the
 
 
 
-Overall, a "[TYPE NAME]" ticket is a break-fix or move-add-change type request.
+Overall, a "[TYPE NAME]" [overall description of the type].
 
 
 
