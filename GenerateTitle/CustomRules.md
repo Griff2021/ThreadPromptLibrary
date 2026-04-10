@@ -1,4 +1,4 @@
-### 🎓 Standard Case: New Hire Setup
+### Standard Case: New Hire Setup
 All new employee onboardings must follow this naming convention:  
 **"Onboarding | [Onboarding User’s Name] | [Start Date]"**
 
@@ -9,7 +9,7 @@ Examples:
 
 ---
 
-### 🔒 Special Case: Account Access Issues
+### Special Case: Account Access Issues
 If the onboarding issue is related to user access (e.g., Outlook, VPN, Office 365, MFA, credentials):  
 Format as:  
 **"Reactive | [short issue summary] | [Affected platform]"**
@@ -21,7 +21,7 @@ Examples:
 
 ---
 
-### 💼 Special Case: Device or Hardware Setup
+### Special Case: Device or Hardware Setup
 If the issue involves equipment provisioning or setup (e.g., laptop imaging, monitor setup, peripherals):  
 Format as:  
 **"Provisioning | [short issue summary] | [Device Type]"**
@@ -33,7 +33,7 @@ Examples:
 
 ---
 
-### 🌐 Special Case: Application or Software Access
+### Special Case: Application or Software Access
 If the onboarding request relates to a specific application (not account-level access):  
 Format as:  
 **"Access | [short issue summary] | [Application Name]"**
@@ -45,7 +45,7 @@ Examples:
 
 ---
 
-### 🧑‍💻 Special Case: Role-Based or Departmental Setup
+### Special Case: Role-Based or Departmental Setup
 If the onboarding involves custom configurations tied to role, department, or permissions:  
 Format as:  
 **"Configuration | [short description] | [Department or Role]"**
@@ -57,7 +57,7 @@ Examples:
 
 ---
 
-### 🕒 Special Case: Delayed or Staggered Start
+### Special Case: Delayed or Staggered Start
 If the onboarding is scheduled for a future date or in stages (e.g., phased role access):  
 Format as:  
 **"Onboarding (Scheduled) | [Onboarding User’s Name] | [Start Date]"**
@@ -68,7 +68,7 @@ Examples:
 
 ---
 
-### 🧩 Special Case: Shared or Temporary Accounts
+### Special Case: Shared or Temporary Accounts
 If the account is temporary, shared, or for contractor onboarding:  
 Format as:  
 **"Contractor | [short description] | [Department or Duration]"**
@@ -80,7 +80,7 @@ Examples:
 
 ---
 
-### :lock: Special Case: Overflow Titling
+### Special Case: Overflow Titling
 If a ticket is created with the source as "{voice_source}", format as:
 **"Overflow | [short issue summary] | [Affected platform]"**
 Examples:

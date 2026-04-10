@@ -1,38 +1,18 @@
 I need to create a description for a type called "[TYPE NAME]" for auto-categorization.
 
-
-
-
-
 A ticket should be categorized as a "[TYPE NAME]" if it is related to any of the following:
-
-
 
 1. Software installation
 
-
-
-
-
-
-
-
 Overall, a "[TYPE NAME]" [overall description of the type].
 
-
-
 Some examples would be:
-
-
 
 ""
 ""
 ""
 "" 
 ""
-
-
-
 
 Please use the following template to create this description:
 
