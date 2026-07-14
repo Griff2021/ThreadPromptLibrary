@@ -9,6 +9,17 @@ Examples:
 
 ---
 
+### Standard Case: Employee Termination
+All new employee onboardings must follow this naming convention. Plesae note that the [Process at: (Datetime)] will not always be present. In the case that it is not available, leave it blank:
+**"Termination | [Terminated User’s Name] | [Facility Name] | [Process at: (Datetime)]"**
+
+Examples:  
+- Termination | Sarah Williams | Ridgewood Manor | July 24, 7:14am
+- Termination | Jacob Li | Tri State Surgical Supply | August 1, 8:00am
+- Termination | Emma Chen | Laurence Rehab & Healthcare Center | August 13, 1:01pm
+
+---
+
 ### Special Case: Account Access Issues
 If the onboarding issue is related to user access (e.g., Outlook, VPN, Office 365, MFA, credentials):  
 Format as:  
