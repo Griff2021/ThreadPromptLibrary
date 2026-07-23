@@ -18,6 +18,7 @@ This includes:
 - Power outages
 - UPS or battery failures (including APC or UPS outage alerts)
 - Anti-virus services that have stopped spooling (SentinelOne, Trend Micro, or any AV service)
+- An AV installation failed (SentinalOne, Trend Micro, or any AV service)
 - Any other alert that clearly represents a critical service outage or infrastructure failure
 
 Do NOT use this priority for routine maintenance or health monitoring alerts that do not indicate a critical outage.
