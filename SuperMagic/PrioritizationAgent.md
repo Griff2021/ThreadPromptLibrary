@@ -65,7 +65,7 @@ This includes:
 5. After setting the priority, add an internal note to the ticket with the following structure:
 
 ---
-🤖 **MSA Priority Agent — Reasoning**
+🤖 **[BOARD] Priority Agent — Reasoning**
 
 **Priority Assigned:** [Priority Name]
 
