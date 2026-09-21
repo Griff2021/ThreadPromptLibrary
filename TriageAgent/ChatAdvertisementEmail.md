@@ -60,7 +60,7 @@ This classification determines whether question 6 (screenshots) applies.
 
 **ONLY** if there is at least one genuinely unanswered item, send **ONE** message using the exact greeting below, followed by **ONLY** the questions that were not answered or inferred:
 
-> "Thank you for contacting RockIT Support. To help assist with your request as quickly as possible, can you please provide the following information?"
+> "Thank you for contacting [MSP] Support. To help assist with your request as quickly as possible, can you please provide the following information?"
 
 `[List ONLY the unanswered questions here]`
 
